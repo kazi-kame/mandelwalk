@@ -1,12 +1,11 @@
 # MandelWalk
 
-A Mandelbrot zoom simulator I built instead of studying.
-
-Yes, this happened mid-exams. No, I don’t regret it.
-
-<p align="center">
-  <img src="assets/mendalwalk.gif" width="800">
-</p>
+<table>
+  <tr>
+    <td><img src="assets/mendalwalk.gif" width="400"></td>
+    <td><img src="assets/mandelwalk_2.gif" width="450"></td>
+  </tr>
+</table>
 
 ---
 
