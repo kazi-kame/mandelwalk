@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="assets/mendalwalk.gif" width="400"></td>
+    <td><img src="assets/mendelwalk.gif" width="400"></td>
     <td><img src="assets/mandelwalk_2.gif" width="450"></td>
   </tr>
 </table>
