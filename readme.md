@@ -5,6 +5,10 @@
     <td><img src="assets/mandelwalk.gif" width="400"></td>
     <td><img src="assets/mandelwalk_2.gif" width="450"></td>
   </tr>
+  <tr>
+    <td align="center">zooming in</td>
+    <td align="center">zooming out</td>
+  </tr>
 </table>
 
 ---
