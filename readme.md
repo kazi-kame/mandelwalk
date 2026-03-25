@@ -114,10 +114,11 @@ Translation: fewer ugly bands, more nice gradients.
 * This is a visualizer, not deep math or research
 * Some functions (like coordinate mapping) exist in multiple places
 * UI looks decent, but still clearly student-level
-* Performance drops at very deep zoom (expected, still annoying)
+* Performance drops at very deep zoom
 * No built-in benchmarking or analysis
 * Dependencies are not pinned → might randomly break in future
 * I probably overdid the colormaps
+* The dashboard still reads fps and stuff that doesn't exactly make sense coz it was supposed to be something else but I came up with a better idea but got lazy and didn't change the UI. So like the dashboard is almost entirely useless
 
 ---
 
