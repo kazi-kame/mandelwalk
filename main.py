@@ -1,10 +1,16 @@
 import sys
+import os
 import math
 import numpy as np
 import pygame
 import moderngl
 
 from dashboard import run_dashboard
+
+
+def resource_path(filename):
+    base = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
+    return os.path.join(base, filename)
 from camera import Camera
 from config import (
     WIDTH, HEIGHT, TITLE, FPS,
@@ -78,9 +84,9 @@ class App:
         self.vbo = self.ctx.buffer(verts.tobytes())
 
     def _build_program(self):
-        with open("vert.glsl", "r", encoding="utf-8") as f:
+        with open(resource_path("vert.glsl"), "r", encoding="utf-8") as f:
             vert = f.read()
-        with open("frag.glsl", "r", encoding="utf-8") as f:
+        with open(resource_path("frag.glsl"), "r", encoding="utf-8") as f:
             frag = f.read()
         self.prog = self.ctx.program(vertex_shader=vert, fragment_shader=frag)
         self.vao  = self.ctx.vertex_array(self.prog, [(self.vbo, "2f", "in_vert")])
