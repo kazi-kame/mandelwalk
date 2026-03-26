@@ -1,0 +1,5 @@
+moderngl
+pygame
+pygame_gui
+numpy
+numba
