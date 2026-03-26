@@ -1,5 +1,8 @@
 # MandelWalk
 
+check the other brach for the latest release
+---
+
 <table>
   <tr>
     <td><img src="assets/mandelwalk.gif" width="400"></td>
