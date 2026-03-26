@@ -138,6 +138,20 @@ Orbital mode: click-drag to rotate around a focal point, scroll to zoom.
 
 ---
 
+## EXE is available for those who wanna try it on their devices without cloning the whole thing
+
+Right hand side under releases 
+```
+click on '+1 releases' 
+Locate `MandelWalk_2` 
+click on the exe file under that release 
+open the downloaded file and launch it 
+a warning will appear click on 'More info' 
+'Run Anyway'
+```
+
+---
+
 ## Setup
 
 ```bash
