@@ -128,6 +128,13 @@ Translation: fewer ugly bands, more nice gradients.
 
 ---
 
+## EXE is available for those who wanna try it on their devices without cloning the whole thing
+
+``Right hand side under releases 
+click on '+1 releases' $\rightarrow$ scroll down to `MandelWalk` $\rightarrow$ click on assets (a drop down should appear) $\rightarrow$ click on the exe file $\rightarrow$ open the downloaded file and launch it $\rightarrow$ a warning will appear click on 'More info' $\rightarrow$ 'Run Anyway' 
+
+---
+
 ## Setup
 
 Install dependencies:
