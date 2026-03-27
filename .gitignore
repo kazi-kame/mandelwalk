@@ -1,29 +1,34 @@
-# Python cache
 __pycache__/
 *.py[cod]
-*.pyo
+*$py.class
+*.so
 *.pyd
-
-# Virtual environments
+*.dll
+.venv/
 venv/
-.env/
-.env
-
-# Build / distribution
+env/
+ENV/
 build/
 dist/
 *.egg-info/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDEs
+.eggs/
+*.egg
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.ipynb_checkpoints/
 .vscode/
 .idea/
-
-# Logs
+*.iml
+.DS_Store
+Thumbs.db
 *.log
-
-# Settings
-settings.json
+*.manifest
