@@ -10,7 +10,7 @@
 
 ## What this is
 
-v1 let you zoom into the Mandelbrot set.
+v1 (branched) let you zoom into the Mandelbrot set.
 
 v2 lets you walk around inside it.
 
