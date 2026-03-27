@@ -2,6 +2,10 @@
 
 ### You are no longer looking at the set. You are in it!!
 
+<tr>
+  <td><img src="assets/MandelWalk.gif" width="800"></td>
+</tr>
+
 ---
 
 ## What this is
